@@ -102,7 +102,7 @@ terminal-font: "TerminusBold"
 	id = "__bar__"
 	left = 10%-297 
 	top = 80%
-	text = "[E]Options [C]Consle"
+	text = "[E]Options [C]Console"
 	align = "right"
 	font = "TerminusBold"
 	color = "#9F59FF"
